@@ -1,0 +1,2 @@
+# DiscordTest
+AmethystMC Discord
